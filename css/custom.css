@@ -17,6 +17,13 @@ Template Name: PT Sumber Alfaria Trijaya Tbk
   font-weight: 500;
   }
 
+.link-white{
+  color: #ffffff;
+}
+
+.login-form{
+  width: 420px;
+}
 
 .line-height-05{
   line-height: 0.5;

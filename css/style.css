@@ -1914,6 +1914,10 @@ form label {
     border-radius: 100%
     
 }
+.btn-full{
+  width: 100%;  
+}
+
 
 .topbar .dropdown-menu {
     box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
@@ -2369,8 +2373,8 @@ ul#themecolors li a.working:before {
 
 .card .card-subtitle {
     font-weight: 300;
-    margin-bottom: 15px;
-    color: #99abb4
+    margin-top: 15px;
+    color: #99abb4;
 }
 
 .card-inverse .card-bodyquote .blockquote-footer, .card-inverse .card-link, .card-inverse .card-subtitle, .card-inverse .card-text {
