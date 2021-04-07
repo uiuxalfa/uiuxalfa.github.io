@@ -1909,8 +1909,10 @@ form label {
 }
 
 .topbar .profile-pic {
+    box-shadow: 0px 0px 5px 3px #e6ae00;
     width: 40px;
     border-radius: 100%
+    
 }
 
 .topbar .dropdown-menu {
