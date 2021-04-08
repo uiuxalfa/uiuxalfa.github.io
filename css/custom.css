@@ -21,6 +21,45 @@ Template Name: PT Sumber Alfaria Trijaya Tbk
   color: #ffffff;
 }
 
+.btn-alfa{
+    border-radius: .75rem 0 .75rem 0;
+    background-color: #005da6;
+    box-shadow: 0px 0px 0px 0px #e6ae00;
+    border: 1px solid #005da6;
+    color: #fff;
+}
+
+.btn-alfa:hover {
+  background-color: #005da6;
+  box-shadow: 0px 0px 0px 0px #e6ae00;
+  border: 1px solid #005da6;
+  color: #fff;
+}
+
+.btn-alfa:active{
+  background-color: #005da6;
+  box-shadow: 0px 0px 0px 0px #e6ae00;
+  border: 1px solid #005da6;
+  color: #fff;
+}
+
+.header-login{
+  background-color: #eef5f9;
+  height: 400px;
+}
+
+.bg-login{
+    color: #fff;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.login-form-index{
+  z-index: 2;
+  margin-top: -320px;
+}
+
 .login-form{
   width: 420px;
 }
