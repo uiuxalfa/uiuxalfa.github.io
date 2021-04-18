@@ -10,6 +10,64 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 @import url(../css/spinners.css);
 @import url(../css/animate.css);
+
+.text-red{
+    color: red;
+}
+
+.text-green{
+    color: green;
+}
+
+.text-blue{
+    color: blue;
+}
+
+.space-title{
+    padding: 0 !important;
+    margin: 0px 0px 14px 0px !important; 
+}
+
+.card-height{
+    min-height: 320px;
+}
+
+.card-title-blue{
+    background-color: #0098FF;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+    color: #fff;
+    font-size: medium;
+}
+
+.card-title-yellow{
+    background-color: #FE9F00;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+    color: #fff;
+    font-size: medium;
+}
+
+.card-title-green{
+    background-color: #6BD310;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+    color: #fff;
+    font-size: medium;
+}
+
+.card-title-grey{
+    background-color: #BBBBBB;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+    color: #fff;
+    font-size: medium;
+}
+
 .preloader {
     width: 100%;
     height: 100%;
